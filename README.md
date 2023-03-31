@@ -53,6 +53,7 @@ To ensure that our dataset was of good quality, we first explored the data to un
 
 <h3>Evaluation on the performance of machine learning models</h3>
 ![Logistic Regression Model](Logi.png)
+ <img src="https://github.com/isabeljohnson001/Customer-Churn-Prediction/blob/42207c64f31c5257bff6db02138d7ac96cec9c63/Logi.png" width="200"/>
 Based on the evaluation results, the best performing models in terms of accuracy are the Random Forest Classifier and the Logistic Regression Classifier with accuracy scores of 0.86.It is also important to consider other metrics such as precision, recall, and F1-score in addition to accuracy to better evaluate the models' performance. Based on the precision, recall and F1-score, the best model is Logistic Regression, with a precision of 0.75 and recall of 0.72 for identifying the churned customers. The Random Forest Classifier also performed well, with a precision of 0.79 and recall of 0.64. However, it's worth noting that the performance of the models might vary based on the specific needs of the problem and the costs associated with false positives and false negatives.The area under the ROC curve (AUC-ROC) score is also a useful metric to evaluate the models' ability to distinguish between the positive and negative classes.The Logistic Regression model has a higher AUC-ROC score compared to the Random Forest Classifier, indicating that the Logistic Regression model has a better overall performance in terms of correctly identifying true positive and true negative cases.
 <h3>Recommendations</h3>
 <h3>Conclusions</h3>
