@@ -1,6 +1,9 @@
 <h1 align="center">Customer-Churn-Prediction</h1>
-
 Customer churn is when customers stop using a company's products or services, and it can be voluntary or involuntary. It is important for businesses to track customer churn because it can be costly to acquire new customers. Retaining customers can reduce churn and improve a company's bottom line.The below analysis is used to find the factors affecting the customer churn and find the best model for customer churn prediction.
+</br>
+<h3>Summary</h3>
+Developed a customer churn prediction model for a telecommunications company using statistical analysis techniques and machine learning algorithms. Performed feature engineering and selection. Created visualizations using matplotlib,plotly and ggplot. Demonstrated strong problem-solving skills by identifying key factors leading to customer churn and proposing strategies to reduce churn rates. Presented findings and recommendations to non-technical stakeholders. Showcased proficiency in statistical analysis, data visualization, big data technologies, and problem-solving skills relevant for a data science role.
+</br>
 <h3>About the dataset</h3>
 The dataset -1 contains customer records associated with a European Telecom Company. The dataset -2 appears to contain information about customer support calls, with each row representing a single call.From the features provided, we can potentially analyze customer churn rate and service performance of the telecom company.The dataset is taken from:-
 <br/>
